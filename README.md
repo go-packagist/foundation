@@ -1,5 +1,9 @@
 # foundation
 
+🎈🎈 This Project is archived, please see https://github.com/go-packagist/framework/tree/master/foundation
+
+----
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-packagist/foundation)](https://goreportcard.com/report/github.com/go-packagist/foundation)
 [![tests](https://github.com/go-packagist/foundation/actions/workflows/go.yml/badge.svg)](https://github.com/go-packagist/foundation/actions/workflows/go.yml)
 [![GoDoc](https://pkg.go.dev/badge/github.com/go-packagist/foundation)](https://pkg.go.dev/github.com/go-packagist/foundation)
